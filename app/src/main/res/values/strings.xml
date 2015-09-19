@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NofarDictionary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="new_word">הוספה</string>
+    <string name="exit">יציאה</string>
+    <string name="cancel">ביטול</string>
+    <string name="save">שמירה</string>
+    <string name="new_word_label">מילה חדשה</string>
+    <string name="edit_word_label">עריכת מילה</string>
+</resources>
